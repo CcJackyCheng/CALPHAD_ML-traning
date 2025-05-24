@@ -1,0 +1,21 @@
+0-norm
+MagpieData minimum Number
+MagpieData maximum Number
+MagpieData mean Number
+MagpieData minimum MendeleevNumber
+MagpieData minimum MeltingT
+MagpieData mean MeltingT
+MagpieData avg_dev MeltingT
+MagpieData maximum CovalentRadius
+MagpieData maximum Electronegativity
+MagpieData avg_dev Electronegativity
+MagpieData mean NUnfilled
+MagpieData avg_dev NUnfilled
+MagpieData minimum GSmagmom
+MagpieData maximum GSmagmom
+MagpieData mean GSmagmom
+MagpieData avg_dev GSmagmom
+MagpieData maximum SpaceGroupNumber
+MagpieData mean SpaceGroupNumber
+MagpieData avg_dev SpaceGroupNumber
+compound possible
